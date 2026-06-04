@@ -87,5 +87,5 @@ Using the online retail transactional dataset to build **RFM clustering** and id
 
 ## 📬 Contact
 - LinkedIn: [https://www.linkedin.com/in/ahmed-gamal-67046739a?]
-- Email: [Ahmedgamy442@gmsil.com]
+- Email: [Ahmedgamy442@gmail.com]
 - GitHub: [github.com/ahmedgamy212]
